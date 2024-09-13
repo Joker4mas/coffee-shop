@@ -3,11 +3,11 @@
 export default function Navbar() {
   return (
     <div className="relative h-72">
-      <img src="/src/assets/image-removeb.png" alt="" className="bg-yellow-950"/>
+      <img src="/public/image-removeb.png" alt="" className="bg-yellow-950"/>
    
     <div className="r-nav flex items-center ml-28 absolute top-0 bottom-4">
       <div className="-mr-16">
-        <img src="/src/assets/Coofee-Footer-logo.png" alt="Coffee Borcelle logo" className="mt-8 h-80"/>
+        <img src="/public/Coofee-Footer-logo.png" alt="Coffee Borcelle logo" className="mt-8 h-80"/>
       </div>
       <nav className="bg-yellow-800 p-2 rounded-md">
         <ul className="flex gap-12 p-2">
