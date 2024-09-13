@@ -1,4 +1,6 @@
+import Discover from "./components/Discover"
 import Navbar from "./components/Navbar"
+import Review from './components/Review'
 
 
 function App() {
@@ -9,7 +11,8 @@ function App() {
     <>
       <div>
         <Navbar />
-        <h1>Hello </h1>
+        <Discover/>
+       <Review />
       </div>
   
     </>
