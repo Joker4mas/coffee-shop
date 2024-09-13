@@ -1,4 +1,5 @@
 import Discover from "./components/Discover"
+import Footer from "./components/Footer"
 import Navbar from "./components/Navbar"
 import Review from './components/Review'
 
@@ -13,6 +14,7 @@ function App() {
         <Navbar />
         <Discover/>
        <Review />
+       <Footer />
       </div>
   
     </>
