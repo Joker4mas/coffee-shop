@@ -5,7 +5,7 @@ export default function Discover() {
     <div className="mt-40">
     <div className='flex flex-col  md:flex-row gap-24 items-center text-black bg-lightBrown p-16'>
       <div className="mt-8"> 
-        <img src="/dist/mug-discover.png" alt="Discover Coffee Borcelle" className="w-screen"/>
+        <img src="/mug-discover.png" alt="Discover Coffee Borcelle" className="w-screen"/>
       </div>
       
       <div >

@@ -27,7 +27,7 @@ export default function Footer() {
                 </div>
             </div >
             <div className="footer-logo flex flex-col items-center mt-8 md:mt-0 md:items-start">
-                <img src="/dist/Coofee-Footer-logo.png" className='-mt-24'/>
+                <img src="/Coofee-Footer-logo.png" alt="Coffee logo" className='-mt-24'/>
                 <div className="flex flex-col text-whiteCo -mt-16">
                     <span>
                     (80) 234545656

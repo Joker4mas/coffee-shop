@@ -14,7 +14,7 @@ function Review() {
         <div className="bg-grayishBrown p-12 text-center">
             <div className="flex justify-center  items-center mx-auto">
             <h1 className="text-3xl font-bold text-whiteCo">Review</h1>
-                <img src="/mug-review.png" className="h-10"/>
+                <img src="/mug-review.png" alt="mug picture"  className="h-10"/>
             </div>
             <h2 className="text-2xl  text-whiteCo mb-8">What Our Fans Say About Us</h2>
 
